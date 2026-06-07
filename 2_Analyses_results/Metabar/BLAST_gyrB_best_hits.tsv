@@ -1,0 +1,2 @@
+qseqid	sseqid	pident	length	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore	tax_level	organism	blast_taxa
+107663741751645209f05b7029573db2	NZ_JAJNOQ010000002.1	77.869	122	25	2	38	158	257925	257805	2.25e-10	75	Unassignable	Paraeggerthella hominis	Unassignable (best: 77.9%)
