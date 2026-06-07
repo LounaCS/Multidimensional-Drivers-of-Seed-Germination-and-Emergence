@@ -1,0 +1,89 @@
+SampleID	Project	Condition	Replicate	Genotypes	Production
+V1S1-T1	OSMOSE	Seed	1	Deezer	Gers
+V1S1-T2	OSMOSE	Seed	2	Deezer	Gers
+V1S1-T3	OSMOSE	Seed	3	Deezer	Gers
+V2S1-T1	OSMOSE	Seed	1	Caprice	Gers
+V2S1-T2	OSMOSE	Seed	2	Caprice	Gers
+V2S1-T3	OSMOSE	Seed	3	Caprice	Gers
+V3S1-T1	OSMOSE	Seed	1	Linex	Gers
+V3S1-T2	OSMOSE	Seed	2	Linex	Gers
+V3S1-T3	OSMOSE	Seed	3	Linex	Gers
+V4S1-T1	OSMOSE	Seed	1	Vanilla	Gers
+V4S1-T2	OSMOSE	Seed	2	Vanilla	Gers
+V4S1-T3	OSMOSE	Seed	3	Vanilla	Gers
+V5S1-T1	OSMOSE	Seed	1	Facila	Gers
+V5S1-T2	OSMOSE	Seed	2	Facila	Gers
+V5S1-T3	OSMOSE	Seed	3	Facila	Gers
+V6S1-T1	OSMOSE	Seed	1	Bea Vezer	Gers
+V6S1-T2	OSMOSE	Seed	2	Bea Vezer	Gers
+V6S1-T3	OSMOSE	Seed	3	Bea Vezer	Gers
+V7S1-T1	OSMOSE	Seed	1	Contender	Gers
+V7S1-T2	OSMOSE	Seed	2	Contender	Gers
+V7S1-T3	OSMOSE	Seed	3	Contender	Gers
+V8S1-T1	OSMOSE	Seed	1	Flavert	Gers
+V8S1-T2	OSMOSE	Seed	2	Flavert	Gers
+V8S1-T3	OSMOSE	Seed	3	Flavert	Gers
+V1S1-D1	OSMOSE	Seed Sterilized	1	Deezer	Gers
+V1S1-D2	OSMOSE	Seed Sterilized	2	Deezer	Gers
+V1S1-D3	OSMOSE	Seed Sterilized	3	Deezer	Gers
+V2S1-D1	OSMOSE	Seed Sterilized	1	Caprice	Gers
+V2S1-D2	OSMOSE	Seed Sterilized	2	Caprice	Gers
+V2S1-D3	OSMOSE	Seed Sterilized	3	Caprice	Gers
+V3S1-D1	OSMOSE	Seed Sterilized	1	Linex	Gers
+V3S1-D2	OSMOSE	Seed Sterilized	2	Linex	Gers
+V3S1-D3	OSMOSE	Seed Sterilized	3	Linex	Gers
+V4S1-D1	OSMOSE	Seed Sterilized	1	Vanilla	Gers
+V4S1-D2	OSMOSE	Seed Sterilized	2	Vanilla	Gers
+V4S1-D3	OSMOSE	Seed Sterilized	3	Vanilla	Gers
+V5S1-D1	OSMOSE	Seed Sterilized	1	Facila	Gers
+V5S1-D2	OSMOSE	Seed Sterilized	2	Facila	Gers
+V5S1-D3	OSMOSE	Seed Sterilized	3	Facila	Gers
+V6S1-D1	OSMOSE	Seed Sterilized	1	Bea Vezer	Gers
+V6S1-D2	OSMOSE	Seed Sterilized	2	Bea Vezer	Gers
+V6S1-D3	OSMOSE	Seed Sterilized	3	Bea Vezer	Gers
+V7S1-D1	OSMOSE	Seed Sterilized	1	Contender	Gers
+V7S1-D2	OSMOSE	Seed Sterilized	2	Contender	Gers
+V7S1-D3	OSMOSE	Seed Sterilized	3	Contender	Gers
+V8S1-D1	OSMOSE	Seed Sterilized	1	Flavert	Gers
+V8S1-D2	OSMOSE	Seed Sterilized	2	Flavert	Gers
+V8S1-D3	OSMOSE	Seed Sterilized	3	Flavert	Gers
+V1S2-T1	OSMOSE	Seed	1	Deezer	Maine et Loire
+V1S2-T2	OSMOSE	Seed	2	Deezer	Maine et Loire
+V1S2-T3	OSMOSE	Seed	3	Deezer	Maine et Loire
+V2S2-T1	OSMOSE	Seed	1	Caprice	Maine et Loire
+V2S2-T2	OSMOSE	Seed	2	Caprice	Maine et Loire
+V2S2-T3	OSMOSE	Seed	3	Caprice	Maine et Loire
+V3S2-T1	OSMOSE	Seed	1	Linex	Maine et Loire
+V3S2-T2	OSMOSE	Seed	2	Linex	Maine et Loire
+V3S2-T3	OSMOSE	Seed	3	Linex	Maine et Loire
+V4S2-T1	OSMOSE	Seed	1	Vanilla	Maine et Loire
+V4S2-T2	OSMOSE	Seed	2	Vanilla	Maine et Loire
+V4S2-T3	OSMOSE	Seed	3	Vanilla	Maine et Loire
+V5S2-T1	OSMOSE	Seed	1	Facila	Maine et Loire
+V5S2-T2	OSMOSE	Seed	2	Facila	Maine et Loire
+V5S2-T3	OSMOSE	Seed	3	Facila	Maine et Loire
+V6S2-T1	OSMOSE	Seed	1	Bea Vezer	Maine et Loire
+V6S2-T2	OSMOSE	Seed	2	Bea Vezer	Maine et Loire
+V6S2-T3	OSMOSE	Seed	3	Bea Vezer	Maine et Loire
+V7S2-T1	OSMOSE	Seed	1	Contender	Maine et Loire
+V7S2-T2	OSMOSE	Seed	2	Contender	Maine et Loire
+V7S2-T3	OSMOSE	Seed	3	Contender	Maine et Loire
+V8S2-T1	OSMOSE	Seed	1	Flavert	Maine et Loire
+V8S2-T2	OSMOSE	Seed	2	Flavert	Maine et Loire
+V8S2-T3	OSMOSE	Seed	3	Flavert	Maine et Loire
+V1S1-P	OSMOSE	Seedling	1	Deezer	Gers
+V1S2-P	OSMOSE	Seedling	1	Deezer	Maine et Loire
+V2S1-P	OSMOSE	Seedling	1	Caprice	Gers
+V2S2-P	OSMOSE	Seedling	1	Caprice	Maine et Loire
+V3S1-P	OSMOSE	Seedling	1	Linex	Gers
+V3S2-P	OSMOSE	Seedling	1	Linex	Maine et Loire
+V4S1-P	OSMOSE	Seedling	1	Vanilla	Gers
+V4S2-P	OSMOSE	Seedling	1	Vanilla	Maine et Loire
+V5S1-P	OSMOSE	Seedling	1	Facila	Gers
+V5S2-P	OSMOSE	Seedling	1	Facila	Maine et Loire
+V6S1-P	OSMOSE	Seedling	1	Bea Vezer	Gers
+V6S2-P	OSMOSE	Seedling	1	Bea Vezer	Maine et Loire
+V7S1-P	OSMOSE	Seedling	1	Contender	Gers
+V7S2-P	OSMOSE	Seedling	1	Contender	Maine et Loire
+V8S1-P	OSMOSE	Seedling	1	Flavert	Gers
+V8S2-P	OSMOSE	Seedling	1	Flavert	Maine et Loire
